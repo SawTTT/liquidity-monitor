@@ -1,0 +1,9 @@
+date,line_id,delta_eur_mn,business,description
+2026-10-05,A10,600,Lending,Drawdown of new syndicated term loan
+2026-10-05,A01,-600,Lending,Cash leg of syndicated loan drawdown
+2026-10-07,L03,-900,Payments,Quarter-end corporate payment outflows
+2026-10-07,A01,-900,Payments,Cash leg of corporate payment outflows
+2026-10-09,L09,1000,Treasury,New 3y senior unsecured issuance settles
+2026-10-09,A01,1000,Treasury,Cash leg of 3y issuance
+2026-10-14,L08,700,Markets,Affiliate repo book increase (non-HQLA)
+2026-10-14,A08,700,Markets,Matching affiliate reverse repo
